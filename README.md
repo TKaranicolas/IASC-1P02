@@ -6,6 +6,6 @@ Welcome to my website for my Twine Game, created for 1P02 at Brock U.
 
 Playtest my game .[here].
 
-## Game Proposal Document
+## Twine Game Prototype
 
-Read the documentation for my game .[here].
+Play the Prototype .[here].(prototype/
