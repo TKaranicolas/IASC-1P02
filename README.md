@@ -8,4 +8,4 @@ Playtest my game .[here].
 
 ## Twine Game Prototype
 
-Play the prototype .[here].(finalbuild/Desertion Oct 31.html)
+Play the prototype .[here].(prototype/TwineGamePrototype.html)
