@@ -4,7 +4,7 @@ Welcome to my website for my Twine Game, created for 1P02 at Brock U.
 
 ## Playtest
 
-Playtest my game .[here].
+Playtest my game [here](playtest/playtest
 
 ## Twine Game Prototype
 
