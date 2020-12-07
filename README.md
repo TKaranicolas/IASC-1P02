@@ -1,6 +1,13 @@
-# IASC-1P02 | Thomas Karanicolas
-Repository for class 1P02
-Welcome to my website for my Twine Game, created for 1P02 at Brock U.
+# Desertion by Thomas Karanicolas
+## IASC-1P04 | Fall 2020
+
+## About the Game
+
+Desertion is a short story-based game where the player explores a deserted Earth.  The game takes place at an unknown time after the majority of the human race has perished due to unforseen circumstances while he is left to survive with what was left behind.  As the player explores the desolate wasteland, he stumbles upon a camp which could be his survival or undoing.  Inspired by the "Fallout" series, Desertion proposes the idea that relations with people can have both positive and negative effect on everyones future.
+
+## Play Now
+
+Play Desertion .[here].()
 
 ## Playtest
 
