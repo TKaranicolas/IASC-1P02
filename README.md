@@ -7,7 +7,7 @@ Desertion is a short story-based game where the player explores a deserted Earth
 
 ## Play Now
 
-Play Desertion .[here].()
+Play Desertion .[here].(final_build/Desertion_FinalBuild.html)
 
 ## Playtest
 
